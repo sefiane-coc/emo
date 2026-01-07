@@ -5,13 +5,13 @@ import { getFirestore, doc, getDoc, setDoc, updateDoc, deleteDoc, collection, ge
 
 // Firebase Config
 const firebaseConfig = {
-  apiKey: "AIzaSyDhnw6_WzZk418vAmtUFtkSLOJcJUmVp1A",
-  authDomain: "jwaxprime.firebaseapp.com",
-  projectId: "jwaxprime",
-  storageBucket: "jwaxprime.firebasestorage.app",
-  messagingSenderId: "182117079996",
-  appId: "1:182117079996:web:5501befd6c611900efe9b9",
-  measurementId: "G-W9GJ02LQBZ"
+  apiKey: "AIzaSyAgwyfuBEMXyZ481OSD_t3wGcGF_VVZwNI",
+  authDomain: "my-emote-panel.firebaseapp.com",
+  projectId: "my-emote-panel",
+  storageBucket: "my-emote-panel.appspot.com",
+  messagingSenderId: "940920130708",
+  appId: "1:940920130708:web:0a51eaace3de7345f47881",
+  measurementId: "G-49L626VHDV"
 };
 
 
